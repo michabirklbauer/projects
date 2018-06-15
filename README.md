@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Welcome
 
-You can use the [editor on GitHub](https://github.com/t0xic-m/t0xic-m.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+> "Hello there!"
+> \- Obi-Wan Kenobi
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page's purpose is mostly to highlight my GitHub repositories, if you want to know more about me follow this [link](https://sites.google.com/site/michabirklbauer/about-me).
 
-### Markdown
+## Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here is an overview of projects that I published on GitHub:
 
-```markdown
-Syntax highlighted code block
+### Owly Messenger
 
-# Header 1
-## Header 2
-### Header 3
+A simple if-else chatbot with a graphical user interface written in python:
 
-- Bulleted
-- List
+[Owly](https://t0xic-m.github.io/owly)
 
-1. Numbered
-2. List
+### Instagram Downloader
 
-**Bold** and _Italic_ and `Code` text
+A python script to download media (pictures/videos/albums) from instagram, optional with user interface:
 
-[Link](url) and ![Image](src)
-```
+[Instagram Downloader](https://t0xic-m.github.io/instagram_downloader/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Instagram Watchdog
 
-### Jekyll Themes
+A python script that can watch public instagram profiles for new posts and sends notifications to a telegram channel:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/t0xic-m/t0xic-m.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Instagram Watchdog](https://t0xic-m.github.io/instagram_watchdog/)
 
-### Support or Contact
+### Instagram Data Download Viewer
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Transforms Instagram's data - that you get via the Data Download Tool - to a readable format:
+
+[Instagram Data Download Viewer](https://t0xic-m.github.io/instagram_data_download_viewer/)
