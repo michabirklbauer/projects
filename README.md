@@ -5,30 +5,30 @@
 
 This page's purpose is mostly to highlight my GitHub repositories, if you want to know more about me follow this [link](https://sites.google.com/site/michabirklbauer/about-me).
 
-## Projects
+# Projects
 
 Here is an overview of projects that I published on GitHub:
 
-### Owly Messenger
+- ### Owly Messenger
 
-A simple if-else chatbot with a graphical user interface written in python:
+  A simple if-else chatbot with a graphical user interface written in python:
 
-[Owly](https://t0xic-m.github.io/owly)
+  [Owly](https://t0xic-m.github.io/owly)
 
-### Instagram Downloader
+- ### Instagram Downloader
 
-A python script to download media (pictures/videos/albums) from instagram, optional with user interface:
+  A python script to download media (pictures/videos/albums) from instagram, optional with user interface:
 
-[Instagram Downloader](https://t0xic-m.github.io/instagram_downloader/)
+  [Instagram Downloader](https://t0xic-m.github.io/instagram_downloader/)
 
-### Instagram Watchdog
+- ### Instagram Watchdog
 
-A python script that can watch public instagram profiles for new posts and sends notifications to a telegram channel:
+  A python script that can watch public instagram profiles for new posts and sends notifications to a telegram channel:
 
-[Instagram Watchdog](https://t0xic-m.github.io/instagram_watchdog/)
+  [Instagram Watchdog](https://t0xic-m.github.io/instagram_watchdog/)
 
-### Instagram Data Download Viewer
+- ### Instagram Data Download Viewer
 
-Transforms Instagram's data - that you get via the Data Download Tool - to a readable format:
+  Transforms Instagram's data - that you get via the Data Download Tool - to a readable format:
 
-[Instagram Data Download Viewer](https://t0xic-m.github.io/instagram_data_download_viewer/)
+  [Instagram Data Download Viewer](https://t0xic-m.github.io/instagram_data_download_viewer/)
