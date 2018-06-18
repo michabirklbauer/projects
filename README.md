@@ -20,6 +20,12 @@ Here is an overview of projects that I published on GitHub:
   A python script to download media (pictures/videos/albums) from instagram, optional with user interface:
 
   [Instagram Downloader](https://t0xic-m.github.io/instagram_downloader/)
+  
+- ### Instagram Story Downloader
+
+  A python script to download Instagram stories via the website [storiesig.com](https://storiesig.com).
+  
+  [Instagram Story Downloader](https://t0xic-m.github.io/instagram_story_downloader/)
 
 - ### Instagram Watchdog
 
