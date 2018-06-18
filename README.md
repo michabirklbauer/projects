@@ -23,7 +23,7 @@ Here is an overview of projects that I published on GitHub:
   
 - ### Instagram Story Downloader
 
-  A python script to download Instagram stories via the website [storiesig.com](https://storiesig.com).
+  A python script to download Instagram stories via the website [storiesig.com](https://storiesig.com):
   
   [Instagram Story Downloader](https://t0xic-m.github.io/instagram_story_downloader/)
 
