@@ -20,6 +20,12 @@ Here is an overview of projects that I published on GitHub:
   A small python package to retrieve and deal with Instagram data:
   
   [InstaPython](https://t0xic-m.github.io/instapython/)
+  
+- ### InstaPython App
+
+  InstaPython App is a graphical interface wrapped around my python package InstaPython:
+  
+  [InstaPython-App](https://t0xic-m.github.io/instapython-app/)
 
 - ### Instagram Downloader
 
