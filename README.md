@@ -28,3 +28,8 @@ Here is an overview of projects that I published on GitHub:
   Transforms Instagram's data - that you get via the Data Download Tool - to a readable format:
 
   [Instagram Data Download Viewer](https://t0xic-m.github.io/instagram_data_download_viewer/)
+
+# Contact
+
+- [Mail](mailto:micha.birklbauer@gmail.com)
+- [Telegram](https://t.me/micha_birklbauer)
