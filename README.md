@@ -16,36 +16,12 @@ Here is an overview of projects that I published on GitHub:
   A simple if-else chatbot with a graphical user interface written in python:
 
   [Owly](https://t0xic-m.github.io/owly)
-  
-- ### InstaPython - A Python Package for Instagram
-
-  A small python package to retrieve and deal with Instagram data:
-  
-  [InstaPython](https://t0xic-m.github.io/instapython/)
-  
-- ### InstaPython App
-
-  InstaPython App is a graphical interface wrapped around my python package InstaPython:
-  
-  [InstaPython-App](https://t0xic-m.github.io/instapython-app/)
 
 - ### Instagram Downloader
 
   A python script to download media (pictures/videos/albums) from instagram, optional with user interface:
 
   [Instagram Downloader](https://t0xic-m.github.io/instagram_downloader/)
-  
-- ### Instagram Story Downloader
-
-  A python script to download Instagram stories via the website [storiesig.com](https://storiesig.com):
-  
-  [Instagram Story Downloader](https://t0xic-m.github.io/instagram_story_downloader/)
-
-- ### Instagram Watchdog
-
-  A python script that can watch public instagram profiles for new posts and sends notifications to a telegram channel:
-
-  [Instagram Watchdog](https://t0xic-m.github.io/instagram_watchdog/)
 
 - ### Instagram Data Download Viewer
 
