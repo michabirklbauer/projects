@@ -16,6 +16,12 @@ Here is an overview of projects that I published on GitHub:
   A simple if-else chatbot with a graphical user interface written in python:
 
   [Owly](https://t0xic-m.github.io/owly)
+  
+- ### InstaTools
+
+  A small python package to access and deal with Instagram data (follow-up to deprecated InstaPython):
+
+  [InstaTools](https://t0xic-m.github.io/instatools/)
 
 - ### Instagram Downloader
 
