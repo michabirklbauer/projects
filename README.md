@@ -29,7 +29,7 @@ Here is an overview of projects that I published on GitHub:
 
   [Instagram Downloader](https://t0xic-m.github.io/instagram_downloader/)
 
-- ### Instagram Data Download Viewer
+- ### Instagram JSON Viewer
 
   Transforms Instagram's data - that you get via the Data Download Tool - to a readable format:
 
