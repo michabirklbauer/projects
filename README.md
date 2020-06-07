@@ -37,7 +37,7 @@ Here is an overview of projects that I published on GitHub:
   
 - ### Apache Mahout for Docker
 
-  Running [Apache Mahout](https://mahout.apache.org/) in [Docker](https://www.docker.com/).
+  Running Apache Mahout in Docker.
   
   [Mahout (Docker)](https://github.com/t0xic-m/mahout_docker)
 
