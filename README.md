@@ -34,6 +34,12 @@ Here is an overview of projects that I published on GitHub:
   Transforms Instagram's data - that you get via the Data Download Tool - to a readable format:
 
   [Instagram JSON Viewer](https://t0xic-m.github.io/instagram_json_viewer/)
+  
+- ### Apache Mahout for Docker
+
+  Running [Apache Mahout](https://mahout.apache.org/) in [Docker](https://www.docker.com/).
+  
+  [Mahout (Docker)](https://github.com/t0xic-m/mahout_docker)
 
 # Contact
 
