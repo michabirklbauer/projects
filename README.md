@@ -19,7 +19,7 @@ Here is an overview of projects that I published on GitHub:
   
 - ### InstaTools
 
-  A small python package to access and deal with Instagram data (follow-up to deprecated InstaPython):
+  A small python package to access and deal with Instagram data:
 
   [InstaTools](https://t0xic-m.github.io/instatools/)
 
