@@ -10,12 +10,6 @@ NOTE: Some of the ReadMe/Help files still link to my old website, especially old
 # Projects
 
 Here is an overview of projects that I published on GitHub:
-
-- ### Owly Messenger
-
-  A simple if-else chatbot with a graphical user interface written in python:
-
-  [Owly](https://t0xic-m.github.io/owly)
   
 - ### InstaTools
 
