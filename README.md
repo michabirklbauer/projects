@@ -3,7 +3,9 @@
 > "Hello there!"
 > \- Obi-Wan Kenobi
 
-This page's purpose is mostly to highlight my GitHub repositories and projects, if you want to find out more about me follow this [link](https://michabirklbauer.github.io).
+This page's purpose is mostly to highlight my GitHub repositories and projects!
+
+If you want to find out more about me follow this [link](https://michabirklbauer.github.io).
 
 # Projects
 
