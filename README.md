@@ -33,7 +33,21 @@ Here is an overview of projects that I published on GitHub:
 
   Running Apache Mahout in Docker.
   
-  [Mahout (Docker)](https://github.com/michabirklbauer/mahout_docker)
+  [Mahout (Docker)](https://github.com/michabirklbauer/mahout_docker/)
+  
+# Research Projects
+
+- ### Chess Mining
+
+  Analyzing Chess Games with Process Mining.
+  
+  [Chess Mining](https://github.com/michabirklbauer/chess_mining/)
+  
+- ### Object Localization
+
+  A computer vision project to mark objects with a bounding box as close-fitting as possible.
+  
+  [Object Localization](https://github.com/michabirklbauer/object_localisation/)
 
 # Contact
 
