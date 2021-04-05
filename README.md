@@ -31,6 +31,12 @@ Here is an overview of projects that I published on GitHub:
 
   [**Instagram JSON Viewer**](https://michabirklbauer.github.io/instagram_json_viewer/)
   
+- ### VSCO Downloader
+
+  A python script to download images and videos in full resolution from VSCO.
+
+  [**VSCO Downloader**](https://michabirklbauer.github.io/vsco_downloader/)
+  
 - ### Apache Mahout for Docker
 
   Running Apache Mahout in Docker.
