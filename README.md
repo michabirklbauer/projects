@@ -59,6 +59,18 @@ Here is an overview of projects that I published on GitHub:
   
   [**Object Localization**](https://github.com/michabirklbauer/object_localisation/)
   
+- ### Protein-Ligand Interaction Analysis
+  
+  Automatic identification of important interactions and interaction-frequency-based scoring in protein-ligand complexes.
+  
+  [**Protein Docking**](https://github.com/michabirklbauer/protein_docking)
+  
+- ### PIA - Protein Interaction Analyzer
+
+  Extract protein-ligand interactions and their frequencies to score and predict the activity of a complex.
+  
+  [**PIA**](https://github.com/michabirklbauer/PIA)
+  
 *****
 
 # Contact
