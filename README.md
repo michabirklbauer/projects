@@ -73,6 +73,16 @@ Here is an overview of projects that I published on GitHub:
   
 *****
 
+# Teaching
+
+- ### Text Mining
+  
+  An introduction to Natural Language Processing (NLP) with Python and R.
+  
+  [**Text Mining**](https://github.com/michabirklbauer/hgb_dse_text_mining)
+
+*****
+
 # Contact
 
 - Website: [michabirklbauer.github.io](https://michabirklbauer.github.io/)
